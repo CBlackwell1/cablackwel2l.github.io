@@ -1,7 +1,6 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <title>Demo: Build a store locator using Mapbox GL JS</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.js"></script>
     <link
@@ -108,7 +107,6 @@ border-left: 0;
 background: rgba(0, 0, 0, 0.1);
 }
 ::-webkit-scrollbar-track {
-      height: 100%
 background: none;
 }
 ::-webkit-scrollbar-thumb {
