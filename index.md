@@ -1,4 +1,3 @@
-FEDCAP Rehabilitation
 <html lang="en">
   <head>
     <meta charset="utf-8" />
@@ -109,6 +108,7 @@ border-left: 0;
 background: rgba(0, 0, 0, 0.1);
 }
 ::-webkit-scrollbar-track {
+      height: 100%
 background: none;
 }
 ::-webkit-scrollbar-thumb {
