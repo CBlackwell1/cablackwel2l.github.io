@@ -72,6 +72,7 @@ color: #fff;
 .listings {
 height: 100%;
 overflow: auto;
+border-collapse: collapse;
 padding-bottom: 60px;
 }
 
